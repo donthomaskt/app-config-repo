@@ -1,4 +1,4 @@
-server.port=8888
+server.port=8781
 spring.application.name=eureka-server
 
 # A server does not register with itself:
